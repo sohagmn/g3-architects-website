@@ -29,6 +29,7 @@ main{
   /* shared styles */
 .display-flex{
     display: flex;
+    justify-content: center;
 }
 /* dark 02 */
 .text-gray{
